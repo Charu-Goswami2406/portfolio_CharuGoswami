@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This is a showcase of my skills, projects, and experiences. The website is built to highlight my professional journey and provide an easy way to connect with me.
 
 ## 🚀 Live Demo
-Check out my portfolio: [Your Portfolio](https://<your-github-username>.github.io/<repository-name>/)
+Check out my portfolio: [Portfolio](https://charu-goswami2406.github.io/portfolio_CharuGoswami/)
 
 ---
 
@@ -38,9 +38,9 @@ The website is built using:
 ---
 
 ## 🤝 Connect With Me
-- Email: [](mailto:charugoswamiofficial@gmail.com)
-- LinkedIn: [](https://linkedin.com/in/charu-goswami)
-- GitHub: [](https://github.com/Charu-Goswami2406)
+- Email: [Email Me](mailto:charugoswamiofficial@gmail.com)
+- LinkedIn: [Let's connect on Linkedin](https://linkedin.com/in/charu-goswami)
+- GitHub: [Let's collaborate](https://github.com/Charu-Goswami2406)
 
 ---
 
